@@ -6,6 +6,7 @@
 
 * [💡 Невидимый свет](igrovye-mekhaniki/nevidimyi-svet.md)
 * [🤕 Кастомные головы](igrovye-mekhaniki/kastomnye-golovy.md)
+* [👕 Кастомные вещи](igrovye-mekhaniki/kastomnye-veshi.md)
 
 ## Игровой контент
 
