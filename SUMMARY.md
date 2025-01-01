@@ -12,3 +12,7 @@
 
 * [Координаты мест](igrovoi-kontent/koordinaty-mest.md)
 * [Карта сервера](https://world.origg.in/)
+
+## Проекты
+
+* [Подводная база](proekty/podvodnaya-baza.md)
