@@ -9,6 +9,7 @@
 * [🤕 Кастомные головы](igrovye-mekhaniki/kastomnye-golovy.md)
 * [👕 Кастомные вещи](igrovye-mekhaniki/kastomnye-veshi.md)
 * [🪄 Палочка отладки](igrovye-mekhaniki/palochka-otladki.md)
+* [Minecamp SMP](igrovye-mekhaniki/minecamp-smp.md)
 
 ## Игровой контент
 
