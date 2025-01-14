@@ -21,7 +21,7 @@ description: >-
 1. Перейдите на сайт [Minecraft Heads](https://minecraft-heads.com/) или [mcheads.ru](https://mcheads.ru/).&#x20;
 2. Выберите голову и скопируйте её значение (значение можно найти почти в конце страницы выбранной головы).&#x20;
 
-<figure><img src="../.gitbook/assets/изображение (1).png" alt=""><figcaption><p>minecraft-heads.com</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (1) (1).png" alt=""><figcaption><p>minecraft-heads.com</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/изображение (2).png" alt=""><figcaption><p>mcheads.ru</p></figcaption></figure>
 
