@@ -2,6 +2,8 @@
 
 * [Введение](README.md)
 * [Правила игры на сервере](<README (1).md>)
+* [Информация о подключении](informaciya-o-podklyuchenii.md)
+* [Как попасть в Whitelist](kak-popast-v-whitelist.md)
 
 ## Игровые механики
 
